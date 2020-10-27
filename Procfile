@@ -1,1 +1,1 @@
-worker:python twitterbot-app-prash.py
+worker python twitterbot-app-prash.py
